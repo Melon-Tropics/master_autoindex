@@ -16,3 +16,5 @@ $tpl->display();
 
 
 $plugins->run_hook("footer_end");
+
+hmmm
